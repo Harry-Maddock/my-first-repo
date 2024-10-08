@@ -1,11 +1,15 @@
-Project name
-: my first git
-Project description
-: this is a text to experiment with github
-Install: instruction
-: after downloading the file, run npm init
-Run instructions
-: type `node index.js` in the console
+# Project Name
+my first git
+
+# Project Description
+this is a text to experiment with GitHub
+
+# Install Instructions
+After downloading the file, run `npm init`.
+
+# Run Instructions
+Type `node index.js` in the console.
+
 | week   | content        |
 | :---   |      ---:      |
 | 1      | Basic java     |
